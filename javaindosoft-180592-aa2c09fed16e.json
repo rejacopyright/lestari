@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "javaindosoft-180592",
+  "private_key_id": "aa2c09fed16ebb6b0190ecf9ad249bfaeb7f7eda",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDqOxYVY9w2/3Fc\nm9/VVS/qgHYummPj/gjKpfvfMACgRlsOeZjkBYU855t2jYUwfCKffji/oTH56Nj5\nOOyujUuVfC4BiZgpq5VxS4/ETiN+E7/mNrHbxXA/+inuif6sv8gn9cBarsCl72xU\ndgThgyvubA6QlGqSi1j/umwXlSxD8CNLn5VCv2tmOCIQoePjCL1BqG35DAV4M80S\n6YnglLGOrtLmEOzI+YAQPPZOrF/nqIRbaduvl3guHsxZoEzD+qHkGByWWdVg7+QM\nNEZBZEprhr+g0YmZI/3J5SZ2pUSISlFSpSA8UeJcA4azkR9D19J2eQBmRxI8Txcn\n6v9xRQxRAgMBAAECggEAB+A+vi9iaz2sS9HjSo1tFAndGh9k4SNcm6Z4e/5ljFNx\nTQuiVssnZMSLl1vrhkArpd3yUzc8sqDgEtlAKXUPfTz0tbvbsE2ts7viX1Zv88BU\nQThw7ek1/LYRDOKk+/K4Qee4imllNESDCaqs6qxPdi/kpCXpbiNeCxNIqS5XPl2B\n9SURSEHQ7j8udCft6qpdBhuw3Kd/Y+JxbLicUDrw8S5CjfcrOrkpJ0P6ixi/pxLq\n3VmrgiuSZTmUpWW10oTQr4ONhWfq2TScd5NbWF5kQNjeHeZl9Z+MK83jhTM73h8N\nCrTzZfn8je6pEpLTpYgMu/vWTuGwU0f3DUPAExYSdQKBgQD2LnF6BUDSgay2PFnU\nseIp/P1oMpHKvYdlJEmPhfPbqNx5CoBzZoOPOfVUQCT8IbWAcKoQAFJwlZ/kbPv+\nMGI9gLTO0Zd16iq/xVEDxEG3PB1Gz+p+7dq5a+UYXR9M9VGHW7AKzHnuwiisnwr/\nKNSB7WdZH1MQdtJ6MTrKXKimiwKBgQDzkqAFA5d5exaC8lM0BrdSCsVliWhfbulI\nKPArgy5FmbTzt9DtBmiiX2wr3UcPiCh17RaDe/OvBTHmdJjH1Nj1fC6O+8Xd/18Q\n+JIkvhDiMRoN93Mot0Uvr9DQSXPgGvBd9GcIyGXZgsofcfmcjzfeuUB5ifHkTnTK\ng6oMtggQEwKBgQDiQAbMdN2BWeooRcjtYFqR6k/ennM9F/jCbJoqjJp0q3mMyKkK\n5hFM5aBhwN381uIfW+v/7rvVer3LSppBn6f6DDqfxSJlHUQSoT52rr0SsO3bMaS6\n6NDXDqErRhJJQUCfnRVqp0f8tXZ6R2Ts4lKD4nLUBqTpgbqo0GvOpV/eRwKBgGv0\nhdYTFHT0WDLronMBswi622i4cTkzGFQySNiQSNbyXGBVDVWwrHmjH3eFmLRKndw+\nm+bk7kmZXNeOwBR5wztysdQPxVAymnkUIvoD/8mxB6I/FZxrNk//deaLV79xUS3j\nYDNlVrcEH/+17XM1iwa9RtVXjY2qNFt55cnCeGpfAoGAbCxGNXzJA3kFb8lRJLeJ\n0LmQZdDoECLtFELfCPfpT+4jFv2fWFPI9/J11Afob7f4Ts4GRQgkZ3nt+7ejm0dv\n2WcVt5xE9NkB/upo4AUOGvWGlG6TXs+27CAhEGn1RgRghzbN0SMcx1mRZ6wbdqAc\nr0tjJjVm1w7CcQ7QlC7o4l0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "analytics@javaindosoft-180592.iam.gserviceaccount.com",
+  "client_id": "109755305751304970782",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/analytics%40javaindosoft-180592.iam.gserviceaccount.com"
+}
