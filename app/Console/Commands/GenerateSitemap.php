@@ -4,6 +4,7 @@ namespace App\Console\Commands;
 
 use Illuminate\Console\Command;
 use Spatie\Sitemap\SitemapGenerator;
+use Spatie\Sitemap\Tags\Url;
 
 class GenerateSitemap extends Command
 {
@@ -38,6 +39,7 @@ class GenerateSitemap extends Command
      */
     public function handle()
     {
-      SitemapGenerator::create('https://lestariautomation.com')->writeToFile(public_path('sitemap.xml'));
+      SitemapGenerator::create('https://lestariautomation.com/')
+      ->writeToFile(public_path('sitemap.xml'));
     }
 }

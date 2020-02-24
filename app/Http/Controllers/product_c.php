@@ -49,7 +49,11 @@ class product_c extends Controller
   }
   function spec(Request $data){
     $q = $data->q;
-    $product_id = $data->product_id;
+    if ($data->product_id) {
+      $product_id = $data->product_id;
+    }else {
+      $product_id = product::first()->product_id;
+    }
     $series_id = $data->series_id;
     $model_id = $data->model_id;
     $value = $data->value;
@@ -57,7 +61,7 @@ class product_c extends Controller
       $value = value::whereIn('ms_value', $value)->where('product_id', $product_id)->pluck('spec_id')->all();
     }
     $spec = spec::orderBy('created_at', 'DESC');
-    $product = product::where('product_id', $data->product_id)->first();
+    $product = product::where('product_id', $product_id)->first();
     $series = series::where('series_id', $data->series_id)->first();
     $model = model::where('model_id', $data->model_id)->first();
     $ms = ms::whereIn('ms_id', explode('|', $product->ms_id))->get();
